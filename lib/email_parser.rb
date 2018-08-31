@@ -23,7 +23,7 @@ class EmailParser
       
       email_final = email_final.uniq
       email_final
-      
+      #this can be much shorter. see solution.. 
   end
   
   
